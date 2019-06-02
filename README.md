@@ -1,6 +1,9 @@
 # Testing Ensembles of Classifiers
 author: Grzegorz Chilczuk
 
-* Without tests
-* Without dosctsring
-* Too coupled
+* No documentation.
+* Not-so-good functions naming.
+  Functions with `test` in name are not intended to be tests, but more like experiments.
+* No unit tests
+
+# Good Luck With That Public License

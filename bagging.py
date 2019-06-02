@@ -4,7 +4,7 @@ from sklearn.ensemble import BaggingClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.tree import DecisionTreeClassifier
 
-from CONST import default_c
+from const import default_c
 from datasets import Data
 from experiments import test_param
 from plotter import scores_dict_table, flatplot

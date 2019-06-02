@@ -5,7 +5,7 @@ import pandas as pd
 import six
 from matplotlib import pyplot as plt
 
-from CONST import SHOW_IN_PLACE, IMG_DIR
+from const import SHOW_IN_PLACE, IMG_DIR
 
 
 def scores_dict_table(scores, filename):
